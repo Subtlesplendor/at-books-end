@@ -180,9 +180,9 @@ figure.fullwidth figcaption { margin-right: 24%; }
 
 ◊; Links: replicate underline that clears descenders
 a:link, a:visited { color: inherit;
-                    font-family:◊|font-sans|;
+                    font-family: ◊|font-sans|;
                     font-variant-caps: all-small-caps;
-                    font-kerning: auto;
+                    font-kerning: none;
                     letter-spacing: ◊|sc-letter-space|;
                     text-decoration: none;}
 
