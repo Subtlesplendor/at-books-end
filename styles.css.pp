@@ -22,7 +22,7 @@
 
 ◊; CSS setup
 @charset "UTF-8";
-@import url("../fonts.css");
+@import url("fonts.css");
 
 
 ◊; CSS primary elements
