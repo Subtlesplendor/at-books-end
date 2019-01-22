@@ -147,9 +147,9 @@ figure.fullwidth figcaption { margin-right: 24%; }
 
 
 a:link, a:visited { color: inherit;
-                    font-family:sourcesanspro;
+                    font-family: sourcesanspro;
                     font-variant-caps: all-small-caps;
-                    font-kerning: auto;
+                    font-kerning: none;
                     letter-spacing: 0.05rem;
                     text-decoration: none;}
 
