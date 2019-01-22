@@ -1,0 +1,1 @@
+("7.0" ("64e0a0dda88ab454a1e2942ea4f19cfb910af87b" . "c43d56e1648a6acedbb003f9a2a28931d88d457d") (collects #"libuuid" #"main.rkt") (collects #"pollen" #"decode.rkt") (collects #"pollen" #"misc" #"tutorial.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"txexpr" #"main.rkt"))
