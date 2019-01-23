@@ -18,3 +18,4 @@
   ◊tr{◊td{January 2019} ◊td{Katherine Addison,
     ◊em{The Goblin Emperor}, 2014, Tor Books.}}}
 }
+◊; 

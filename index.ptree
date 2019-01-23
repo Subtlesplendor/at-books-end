@@ -1,4 +1,4 @@
 #lang pollen
 
-index.html
-rules.html
+◊index.html{
+ rules.html}

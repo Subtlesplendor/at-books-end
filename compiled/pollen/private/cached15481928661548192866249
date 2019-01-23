@@ -1,0 +1,1 @@
+#"<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>\342\227\212(select 'h1 doc)</title>\n  <link rel=\"stylesheet\" type=\"text/css\" href=\"styles.css\" />\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n</head>\n<body><article>\342\227\212(->html doc)</article></body>\n</html>\n"

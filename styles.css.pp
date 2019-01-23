@@ -91,8 +91,16 @@ p.subtitle { font-family: ◊|font-heading|;
 
 .thick { font-weight: 700; }
 
+.large { font-size: 3rem;}
+
 .red { color: ◊|hl-color|;}
 
+.center-children { text-align: center;}
+
+navigation { font-size: 4rem;
+             font-weight: 300;
+             color: ◊|hl-color|;
+             margin-top: 2rem; }
 ◊; Page elements
 article { position: relative;
           padding: 5rem 0rem; }
@@ -296,7 +304,8 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
                                    padding-left: 8%;
                                    padding-right: 8%; }
                             hr, section > p, section > footer, section > table { width: 100%; }
-                            table { font-size: 1.0rem;}
+                            table { font-size: 1.25rem;
+                                    font-weight: 400; }
                             pre.code { width: 97%; }
                             section > ol { width: 90%; }
                             section > ul { width: 90%; }

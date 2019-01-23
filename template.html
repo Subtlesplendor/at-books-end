@@ -7,4 +7,6 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body><article>◊(->html doc)</article></body>
+◊(define parent-page (parent here))
+◊when/splice[parent-page]{<section><p class="center-children"><navigation><a href="◊|parent-page|">←<a/><navigation/><p/><section/>}
 </html>
