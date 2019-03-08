@@ -1,1 +1,0 @@
-("7.0" ("64e0a0dda88ab454a1e2942ea4f19cfb910af87b" . "d9783460b23a8cfe19a6f85ba920de15d613c6e9") (collects #"errortrace" #"errortrace-key.rkt") (collects #"libuuid" #"main.rkt") (collects #"pollen" #"decode.rkt") (collects #"pollen" #"misc" #"tutorial.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"txexpr" #"main.rkt"))

@@ -12,12 +12,16 @@
 ◊(define text-color "#111")
 
 ◊(define sc-letter-space "0.05rem")
+◊(define table-space-hor "40px")
+◊(define table-space-vert "10px")
 
 ◊(define font-serif "sourceserifpro")
 ◊(define font-sans "sourcesanspro")
 ◊(define font-mono "sourcemonopro")
 
 ◊(define font-heading font-sans)
+
+
 
 
 ◊; CSS setup
@@ -125,8 +129,8 @@ p { margin-top: 1.4rem;
 
 ◊; Tables
 table { font-size: 1.4rem;
-        border-spacing: 40px 0rem;
-        margin-left: -40px; }
+        border-spacing: ◊|table-space-hor| ◊|table-space-vert|;
+        margin-left: -◊|table-space-hor|; }
 
 th { font-weight: inherit;
      text-align: left; }

@@ -96,7 +96,7 @@ p { margin-top: 1.4rem;
     vertical-align: baseline; }
 
 table { font-size: 1.4rem;
-        border-spacing: 40px 0rem;
+        border-spacing: 40px 10px;
         margin-left: -40px; }
 
 th { font-weight: inherit;
